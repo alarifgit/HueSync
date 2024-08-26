@@ -1,6 +1,6 @@
 English | [简体中文](./README_cn.md)
 # HueSync
-[![](https://img.shields.io/github/downloads/honjow/HueSync/total.svg)](https://gitHub.com/honjow/HueSync/releases) [![](https://img.shields.io/github/downloads/honjow/HueSync/latest/total)](https://github.com/honjow/HueSync/releases/latest) [![](https://img.shields.io/github/v/release/honjow/HueSync)](https://github.com/honjow/HueSync/releases/latest)
+[![](https://img.shields.io/github/downloads/alarifgit/HueSync/total.svg)](https://gitHub.com/alarifgit/HueSync/releases) [![](https://img.shields.io/github/downloads/alarifgit/HueSync/latest/total)](https://github.com/alarifgit/HueSync/releases/latest) [![](https://img.shields.io/github/v/release/alarifgit/HueSync)](https://github.com/alarifgit/HueSync/releases/latest)
 
 Plugin for [decky-loader](https://github.com/SteamDeckHomebrew/decky-loader)
 
@@ -43,5 +43,5 @@ Similarly, Support for Ayn devices through [ayn-platform](https://github.com/Sha
 
 ## One-step Installation
 ```
-curl -L https://raw.githubusercontent.com/honjow/huesync/main/install.sh | sh
+curl -L https://raw.githubusercontent.com/alarifgit/huesync/main/install.sh | sh
 ```
